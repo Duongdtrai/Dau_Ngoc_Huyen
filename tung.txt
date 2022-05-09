@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 tung123
+=======
+tung duong dep trai them từ computer2
+>>>>>>> b5738d5fce7aef9f1f7f641d6e669d2e52683c65
